@@ -1,0 +1,19 @@
+{
+  "name": "jsx-inner-validations",
+  "version": "1.0.0",
+  "description": "This sample shows how we can validate using jsx syntax without using if statements, for very straight forward cases.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
